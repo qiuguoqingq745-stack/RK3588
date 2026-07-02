@@ -1,0 +1,32 @@
+# 编译文件
+build/
+cmake-build-*/
+*.o
+*.obj
+*.exe
+*.dll
+*.so
+*.a
+*.lib
+
+# 视频和压缩包
+*.mp4
+*.avi
+*.mkv
+*.zip
+*.rar
+*.7z
+
+# 大模型文件
+*.rknn
+*.onnx
+*.pt
+*.pth
+*.weights
+
+# IDE
+.vscode/
+.idea/
+
+# 日志
+*.log
